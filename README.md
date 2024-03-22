@@ -4,6 +4,8 @@ Este repositorio contiene una serie de ejercicios prácticos resueltos, para apr
 
 ![Logo de NumPy](https://aprendeconalf.es/docencia/python/manual/img/numpy-logo.png)
 
+*Fuente de la imagen: https://imaginaformacion.com*
+
 NumPy es una librería de Python especializada en el cálculo numérico y el análisis de un gran volumen de datos. Esta librería proporciona una nueva clase de objetos llamados ***arrays***, y funciones muy eficientes para manipularlos. Los arrays permiten representar colecciones de datos **de un mismo tipo** en varias dimensiones. 
 
 El procesamiento de los arrays en Numpy es considerablemente más rápido que el de las listas estándar de Python. Esto hace que Numpy sea ideal para el procesamiento de vectores y matrices de grandes dimensiones.
